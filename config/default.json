@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://dbuser:kDbuxEfYtHT4ukUu@cluster0.qz6ef.mongodb.net/empdir?retryWrites=true&w=majority"
+}
